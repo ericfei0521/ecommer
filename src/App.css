@@ -2,3 +2,11 @@ body{
     font-family: 'Roboto Mono', monospace;
     padding: 20px 80px;
 }
+a{
+    text-decoration: none;
+    color: rgb(92, 92, 92);
+}
+
+*{
+    box-sizing: border-box;
+}
